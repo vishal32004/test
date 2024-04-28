@@ -1,0 +1,10 @@
+@media (min-width: 1366px) {
+  .carousel-indicators [data-bs-target] {
+    font-size: 14px;
+  }
+}
+@media (max-width: 1366px) {
+  .carousel-indicators [data-bs-target] {
+    font-size: 0.95vw;
+  }
+}
